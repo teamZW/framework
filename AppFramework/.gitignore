@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+
+# customs
+framework/AppFramework/.gradle/
+framework/AppFramework/.idea/
+framework/AppFramework/.svn/
+framework/AppFramework/java_pid5600.hprof   
+framework/AppFramework/local.properties
+framework/AppFramework/*.iml
